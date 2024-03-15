@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Catboo;
+    src:url(../font/Catboo.ttf);
+}
+
+body {
+    background-color: #ebe1d6;
+    position: relative;
+    text-align: left;
+    padding: 35px;
+    font-family: Helvetica, sans-serif;
+    /*font-weight: 500; */
+    font-size: 13pt;
+}
+
+h1 {
+    text-align: center;
+    font-family: Catboo;
+    color: #642e1e;
+    font-size: 35pt;
+}
+
+
+.menu-area {
+    position: fixed;
+    text-align: center;
+    
+}
+
+#huh-cat {
+    padding: 15%;
+    position: relative;
+
+}
+
+.p{
+    height: fit-content;
+}
+
+.info{
+    position: relative;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+img{
+    max-width: 60%;
+    max-height: 60%;
+    object-fit: contain; 
+    justify-content: center;
+    margin: auto;
+    display: block;
+    padding: 20px;
+    padding-top: 0%;
+    }
+
+
+#return{
+    font-family: Birdgo;
+    margin-bottom: 60px;
+}
+
+a{
+    color: rgb(201, 125, 140);
+}
+
+a:hover {
+    color: #db4c32;
+}
+
+
